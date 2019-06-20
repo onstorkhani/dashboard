@@ -1,0 +1,35 @@
+       /* unvisited link */
+       a:link {
+        color:white;
+    }
+    /* mouse over link */
+    a:hover {
+        
+        background-color: violet;
+    }
+
+.border{
+border-radius: 20px;
+height: 30px;
+}
+
+.register{
+padding: 30px;
+margin-left: 35%;
+color: black;
+text-align: center;
+}
+.hr{
+margin-top: 20px;
+width: 600px;
+margin-bottom: 20px;
+}
+
+.submit{
+background-color: black;
+color: aliceblue;
+border: 2px solid black;
+width: 100px;
+
+height: 30px;
+}

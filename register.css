@@ -9,7 +9,7 @@
         /* mouse over link */
         a:hover {
             
-            background-color: violet;
+            background-color: rgba(128, 128, 128, 0.288);
         }
 .part1{
     background-color: rgb(36, 33, 33) ;
@@ -33,10 +33,10 @@
     height: 30px;
 }
 .active{
-    background-color: violet;
+    background-color: rgba(128, 128, 128, 0.507);
     text-decoration: none;
     border: none;
-    color: indigo;
+    color: white;
     padding: 15px;
     text-align: center;
     display: inline-block;
@@ -59,12 +59,10 @@
     width: 70%;
     margin-top: 15px;
 }
-.space{
-    height: 40px;
-}
+
 .part2{
-    background: url(https://cdn.spacetelescope.org/archives/images/newsfeature/heic1214a.jpg);
-    height: 600px;
+    background: url(cover.jpg);
+    height: 555px;
     background-size: cover;
     display: block;
 }
@@ -81,15 +79,10 @@
 }
 
 .submit{
-    background-color: purple;
+    background-color:black;
     color: aliceblue;
-    border: 2px solid blueviolet;
+    border: 2px solid black;
     width: 100px;
     border-radius: 20px;
     height: 30px;
-}
-.part3{
-    margin-top: 30px;
-    text-align: center;
-    height: 50px;
 }
